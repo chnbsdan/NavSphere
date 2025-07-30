@@ -12,7 +12,7 @@
           "title": "Youtube",
           "href": "https://www.youtube.com/",
           "description": "全球最大的视频分享平台",
-          "icon": "",
+          "icon": "/assets/img_1753845684679.png",
           "enabled": true
         }
       ],
