@@ -22,6 +22,14 @@
           "description": "收集开源项目，分享跨境电商好货源，互动交流学习经验",
           "icon": "/assets/img_1753845780762.png",
           "enabled": true
+        },
+        {
+          "id": "1753847908528",
+          "title": "HiDNS域名",
+          "href": "https://www.hidoha.net/",
+          "description": "免费域名注册",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
