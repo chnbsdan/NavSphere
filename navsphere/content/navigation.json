@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1753845384523",
+      "title": "BSDAN",
+      "icon": "FolderKanban",
+      "description": "日常瞎逛的网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
