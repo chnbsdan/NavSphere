@@ -30,6 +30,14 @@
           "description": "免费域名注册",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1753848549558",
+          "title": "阿里巴巴图标",
+          "href": "https://www.iconfont.cn/",
+          "description": "阿里妈妈MUX倾力打造的矢量图标管理、交流平台。",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
