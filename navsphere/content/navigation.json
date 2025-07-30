@@ -14,6 +14,14 @@
           "description": "全球最大的视频分享平台",
           "icon": "/assets/img_1753845684679.png",
           "enabled": true
+        },
+        {
+          "id": "1753845695493",
+          "title": "BSDAN博客",
+          "href": "https://bk.bsdan.nyc.mn/",
+          "description": "个人HEXO博客",
+          "icon": "/assets/img_1753845780762.png",
+          "enabled": true
         }
       ],
       "subCategories": []
