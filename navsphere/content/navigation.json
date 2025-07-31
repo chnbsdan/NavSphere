@@ -46,6 +46,14 @@
           "description": "免费的域名服务商，需要纽约IP地址注册",
           "icon": "/assets/img_1753925709717.png",
           "enabled": true
+        },
+        {
+          "id": "1753925838683",
+          "title": "dpdns.org",
+          "href": "https://dash.domain.digitalplat.org/",
+          "description": "免费域名服务商，US.KG",
+          "icon": "/assets/img_1753925912157.png",
+          "enabled": true
         }
       ],
       "subCategories": []
