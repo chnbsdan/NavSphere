@@ -54,6 +54,14 @@
           "description": "免费域名服务商，US.KG",
           "icon": "/assets/img_1753925912157.png",
           "enabled": true
+        },
+        {
+          "id": "1753928576083",
+          "title": "为美丽的地球环境祷告",
+          "href": "https://ecology.keke.qzz.io/",
+          "description": "本网站为公益网站，为了宣传环境保护，减少炭排放，让我们的地球更美好。",
+          "icon": "/assets/img_1753928657902.png",
+          "enabled": true
         }
       ],
       "subCategories": []
