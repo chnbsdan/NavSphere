@@ -78,6 +78,14 @@
           "description": "开启域名之旅，spaceship域名服务商",
           "icon": "/assets/img_1754395921192.png",
           "enabled": true
+        },
+        {
+          "id": "1754396068406",
+          "title": "deepseek AI",
+          "href": "https://www.deepseek.com/",
+          "description": "AI探索未至之境",
+          "icon": "/assets/img_1754396166797.png",
+          "enabled": true
         }
       ],
       "subCategories": []
