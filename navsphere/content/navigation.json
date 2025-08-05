@@ -62,6 +62,14 @@
           "description": "本网站为公益网站，为了宣传环境保护，减少炭排放，让我们的地球更美好。",
           "icon": "/assets/img_1753928657902.png",
           "enabled": true
+        },
+        {
+          "id": "1754395654079",
+          "title": "GitHub Docs",
+          "href": "https://docs.github.com/zh",
+          "description": "GitHub 文档\n在 GitHub 旅程中随时为你提供帮助。",
+          "icon": "/assets/img_1754395782445.png",
+          "enabled": true
         }
       ],
       "subCategories": []
