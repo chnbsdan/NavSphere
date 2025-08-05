@@ -70,6 +70,14 @@
           "description": "GitHub 文档\n在 GitHub 旅程中随时为你提供帮助。",
           "icon": "/assets/img_1754395782445.png",
           "enabled": true
+        },
+        {
+          "id": "1754395842092",
+          "title": "spaceship域名服务商",
+          "href": "https://www.spaceship.com/zh/",
+          "description": "开启域名之旅，spaceship域名服务商",
+          "icon": "/assets/img_1754395921192.png",
+          "enabled": true
         }
       ],
       "subCategories": []
