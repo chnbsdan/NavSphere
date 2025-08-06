@@ -86,6 +86,14 @@
           "description": "AI探索未至之境",
           "icon": "/assets/img_1754396166797.png",
           "enabled": true
+        },
+        {
+          "id": "1754475068922",
+          "title": "LibreTV",
+          "href": "https://tv.2098.nyc.mn",
+          "description": "LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。",
+          "icon": "/assets/img_1754475150323.png",
+          "enabled": true
         }
       ],
       "subCategories": []
