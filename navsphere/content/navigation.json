@@ -110,6 +110,14 @@
           "description": "Zoho Mail 是卓豪（ZOHO Corporation）旗下的核心企业邮箱产品，自 2008 年推出以来，已服务全球超 1800 万企业用户",
           "icon": "/assets/img_1754573468146.png",
           "enabled": true
+        },
+        {
+          "id": "1754573673974",
+          "title": "linux.do技术论坛",
+          "href": "https://linux.do/",
+          "description": "大佬的技术分享论坛",
+          "icon": "/assets/img_1754573754364.png",
+          "enabled": true
         }
       ],
       "subCategories": []
