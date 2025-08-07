@@ -102,6 +102,14 @@
           "description": " MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。",
           "icon": "/assets/img_1754475387941.png",
           "enabled": true
+        },
+        {
+          "id": "1754573387095",
+          "title": "Zoho Mail",
+          "href": "https://mail.zoho.com/zm/",
+          "description": "Zoho Mail 是卓豪（ZOHO Corporation）旗下的核心企业邮箱产品，自 2008 年推出以来，已服务全球超 1800 万企业用户",
+          "icon": "/assets/img_1754573468146.png",
+          "enabled": true
         }
       ],
       "subCategories": []
